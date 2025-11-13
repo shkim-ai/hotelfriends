@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/f440bd79c570e3f1.css","style"]
+:HL["/_next/static/chunks/7f5ebd14797c4fd3.css","style"]
+:HL["/_next/static/chunks/e066ed255248b3f8.css","style"]
+:HL["/_next/static/media/7fc9c92292d32c4a-s.p.e3b911a5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fca78c2ee6cec166-s.p.a2d50d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"FQCvfNjLgYBATBLvgweyO","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"products","paramType":null,"paramKey":"products","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"luxury-goose-down-pillow","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
